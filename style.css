@@ -10,3 +10,11 @@
     gap: 20px;
     list-style: none;
 }
+
+.footer {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: black;
+    color: white;
+    height: 240px;
+}
