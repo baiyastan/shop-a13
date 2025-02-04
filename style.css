@@ -1,0 +1,12 @@
+.header {
+    width: 1200px;
+    margin: 0 auto;
+    border: 2px solid black;
+    height: 65px;
+}
+
+.header ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
